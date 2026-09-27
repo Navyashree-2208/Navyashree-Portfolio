@@ -91,7 +91,7 @@ function Contact(){return <section id="contact" style={{background:'var(--bg2)'}
 
 <div className="contact-item"><div className="contact-icon"><i className="fa-solid fa-envelope"></i></div><div><div className="contact-label">Email</div><a href="mailto:navyashree2317@gmail.com">navyashree2317@gmail.com</a></div></div>
 
-<div className="contact-item"><div className="contact-icon"><i className="fa-solid fa-phone"></i></div><div><div className="contact-label">Phone</div><a href="tel:+916362623670">+91 6362623670</a></div></div>
+{/* <div className="contact-item"><div className="contact-icon"><i className="fa-solid fa-phone"></i></div><div><div className="contact-label">Phone</div><a href="tel:+916362623670">+91 6362623670</a></div></div> */}
 
 <div className="contact-item"><div className="contact-icon"><i className="fa-brands fa-linkedin-in"></i></div><div><div className="contact-label">LinkedIn</div><a href="https://linkedin.com/in/navyashree22" target="_blank" rel="noopener noreferrer">linkedin.com/in/navyashree22</a></div></div>
 
