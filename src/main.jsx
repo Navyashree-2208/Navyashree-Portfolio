@@ -5,7 +5,7 @@ import './styles.css';
 const skills = [
   ['Programming', ['C','Python','Java','JavaScript']],
   ['Frontend', ['HTML5','CSS3','React.js','Responsive UI']],
-  ['Backend', ['Node.js','REST API Integration']],
+  ['Backend', ['Node.js','Express.js','REST API Integration']],
   ['Database', ['MySQL','MongoDB']],
   ['Computer Science', ['DSA','OOP','DBMS','OS','Computer Networks','System Design','SDLC']],
   ['Tools', ['Git','GitHub']]
