@@ -6,8 +6,6 @@ The portfolio preserves the original visual design, including its layout, colors
 
 ## 🌐 Live Website
 
-## 🌐 Live Website
-
 [View Portfolio](https://navyashree-portfolio-xwx2.onrender.com/)
 
 ## 📂 GitHub Repository
