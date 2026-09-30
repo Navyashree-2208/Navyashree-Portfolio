@@ -109,17 +109,8 @@ function Projects(){
             </div>
 
             <div className="project-links">
-
-              <a
-                href="https://github.com/Navyashree-2208"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="btn btn-primary"
-              >
-                GitHub
-              </a>
-
-            </div>
+  <span className="btn btn-primary">MentxTV</span>
+</div>
 
           </Reveal>
 
