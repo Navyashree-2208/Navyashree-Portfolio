@@ -101,8 +101,6 @@ h2.sec-title{font-size:clamp(1.8rem,4vw,2.6rem);margin-bottom:8px}
 .proj-card{cursor:pointer;position:relative;overflow:hidden}
 .proj-top{display:flex;justify-content:space-between;align-items:start;margin-bottom:12px}
 .proj-name{font-size:1.3rem;font-weight:800}
-.proj-arrow{width:34px;height:34px;border-radius:50%;border:1px solid var(--border);display:flex;align-items:center;justify-content:center;transition:.25s}
-.proj-card:hover .proj-arrow{background:var(--grad);border-color:transparent;transform:rotate(45deg)}
 .proj-desc{color:var(--muted);font-size:.93rem;margin-bottom:16px}
 .proj-tags{display:flex;flex-wrap:wrap;gap:7px;margin-bottom:16px}
 .proj-tags span{background:var(--bg2);border:1px solid var(--border);padding:4px 10px;border-radius:6px;font-size:.75rem;transition:.2s}
